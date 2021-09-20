@@ -1,4 +1,4 @@
-Steps to build a wordpress with docker-compose.
+## Steps to build a wordpress with docker-compose.
 
 1. Git clone this repository or copy & paste docker-compose.yml in your repository.
 
